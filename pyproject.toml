@@ -1,0 +1,7 @@
+[project]
+name = "devpod-demo"
+version = "0.1.0"
+description = "Example project using dev containers"
+dependencies = [
+    "art==6.4"
+]
