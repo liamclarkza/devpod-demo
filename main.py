@@ -1,3 +1,3 @@
-from art import tprint
+import jax
 
-tprint("Hello World")
+print(jax.devices())
